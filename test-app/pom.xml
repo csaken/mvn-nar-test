@@ -43,7 +43,7 @@
                     <libraries>
                         <library>
                             <type>executable</type>
-                            <run>true</run>
+                            <run>false</run>
                         </library>
                     </libraries>
                 </configuration>
