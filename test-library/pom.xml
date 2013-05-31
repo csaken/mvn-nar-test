@@ -40,12 +40,13 @@
         </plugins>
     </build>
     
-    <distributionManagement>
-        <snapshotRepository>
-            <id>libs-snapshot-bigpixel</id>
-            <name>Bigpixel-snapshots</name>
-            <url>http://artifactory.dev.bigpixel.ro:8080/artifactory/libs-snapshot-bigpixel</url>
-        </snapshotRepository>
-    </distributionManagement>
-
+    <!--
+        <distributionManagement>
+            <snapshotRepository>
+                <id>libs-snapshot-bigpixel</id>
+                <name>Bigpixel-snapshots</name>
+                <url>http://artifactory.dev.bigpixel.ro:8080/artifactory/libs-snapshot-bigpixel</url>
+            </snapshotRepository>
+        </distributionManagement>
+    -->
 </project>

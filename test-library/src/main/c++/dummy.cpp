@@ -1,6 +1,6 @@
 #include <test.h>
 
-int function(int a)
+int function(int a) 
 {
-  return a+1;
+    return a + 1;
 }

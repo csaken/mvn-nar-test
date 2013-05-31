@@ -39,11 +39,10 @@
                 <extensions>true</extensions>
 
                 <configuration>
-
                     <libraries>
                         <library>
                             <type>executable</type>
-                            <run>false</run>
+                            <run>true</run>
                         </library>
                     </libraries>
                 </configuration>
