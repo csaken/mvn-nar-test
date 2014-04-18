@@ -10,7 +10,7 @@
         <artifactId>mvn-test</artifactId>
         <version>1.0</version>
     </parent>
-	
+
     <groupId>com.awakening.mvn-test</groupId>
     <artifactId>test-library</artifactId>
     <packaging>nar</packaging>
@@ -24,9 +24,9 @@
         <defaultGoal>install</defaultGoal>
         <plugins>
             <plugin>
-			    <groupId>com.github.maven-nar</groupId>
-			    <artifactId>nar-maven-plugin</artifactId>
-			    <version>3.0.0</version>
+                <groupId>com.github.maven-nar</groupId>
+                <artifactId>nar-maven-plugin</artifactId>
+                <version>3.0.0</version>
                 <extensions>true</extensions>
                 <configuration>
                     <layout>NarLayout20</layout>
