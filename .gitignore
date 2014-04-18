@@ -1,0 +1,9 @@
+# Created by http://www.gitignore.io
+
+### Maven ###
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.next
+release.properties
+
