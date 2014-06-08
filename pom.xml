@@ -22,34 +22,4 @@
         </dependency>
     </dependencies>
 
-    <pluginRepositories>
-        <pluginRepository>
-            <id>Mark.Donszelmann@gmail.com</id>
-            <name>Duns' Maven Snapshot Repository</name>
-            <url>http://duns.github.com/maven-snapshots/</url>
-            <releases>
-                <enabled>false</enabled>
-                <updatePolicy>never</updatePolicy>
-            </releases>
-            <snapshots>
-                <enabled>true</enabled>
-                <updatePolicy>daily</updatePolicy>
-            </snapshots>
-        </pluginRepository>
-
-        <pluginRepository>
-            <id>Mark.Donszelmann@gmail.com-custom-build</id>
-            <name>Duns' Maven Snapshot Repository (custom build)</name>
-            <url>https://oss.sonatype.org/content/repositories/snapshots/</url>
-            <releases>
-                <enabled>false</enabled>
-                <updatePolicy>never</updatePolicy>
-            </releases>
-            <snapshots>
-                <enabled>true</enabled>
-                <updatePolicy>daily</updatePolicy>
-            </snapshots>
-        </pluginRepository>
-    </pluginRepositories>
-
 </project>
