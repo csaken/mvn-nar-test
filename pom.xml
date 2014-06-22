@@ -13,13 +13,4 @@
         <module>test-library</module>
         <module>test-app</module>
     </modules>
-
-    <dependencies>
-        <dependency>
-            <groupId>com.github.maven-nar</groupId>
-            <artifactId>cpptasks-parallel</artifactId>
-            <version>1.3.0</version>
-        </dependency>
-    </dependencies>
-
 </project>
